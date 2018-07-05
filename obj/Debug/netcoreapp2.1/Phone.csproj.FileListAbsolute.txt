@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Phone\bin\Debug\netcoreapp2.1\Phone.deps.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Phone\bin\Debug\netcoreapp2.1\Phone.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Phone\bin\Debug\netcoreapp2.1\Phone.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Phone\bin\Debug\netcoreapp2.1\Phone.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Phone\bin\Debug\netcoreapp2.1\Phone.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Phone\obj\Debug\netcoreapp2.1\Phone.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Phone\obj\Debug\netcoreapp2.1\Phone.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Phone\obj\Debug\netcoreapp2.1\Phone.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Phone\obj\Debug\netcoreapp2.1\Phone.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Phone\obj\Debug\netcoreapp2.1\Phone.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Phone\obj\Debug\netcoreapp2.1\Phone.pdb
